@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./../";
 
 const FormInput = (props) => {
   const [focused, setFocused] = useState(false);
